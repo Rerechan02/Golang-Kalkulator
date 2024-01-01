@@ -1,2 +1,7 @@
-# Golang-Kalkulator
-Belajar, masih pemula baru belajar coding
+# Golang-Kalkulator Example
+
+## Run
+go run main.go
+
+## Build
+go build main.go
