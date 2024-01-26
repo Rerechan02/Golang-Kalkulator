@@ -92,3 +92,4 @@ func main() {
                 fmt.Scanln()
                 clearScreen()
         }
+}
